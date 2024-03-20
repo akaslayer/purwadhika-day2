@@ -3,6 +3,7 @@ public class day2_github {
         System.out.println("Hendry is here in github");
         System.out.println("hahaha");
         System.out.println("ROARRRRRR");
+        System.out.println("mamamlala");
 
     }
 }
